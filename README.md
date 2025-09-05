@@ -39,12 +39,11 @@ This project allows users to explore menus, add items to the cart, view total pr
 1. Clone the repository:
    ```bash
    git clone https://github.com/shahbazal0m/foodie-website.git
-Navigate to the project folder:
+2. Navigate to the project folder:
+   
+3. bash Copy codecd foodie-website
 
-bash
-Copy code
-cd foodie-website
-Open index.html in your browser.
+4. Open index.html in your browser.
 
 🌐 Live Demo
 [Click here to view](https://foodie-website-eta-one.vercel.app/)
