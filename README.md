@@ -48,5 +48,6 @@ This project allows users to explore menus, add items to the cart, view total pr
 🌐 Live Demo
 [Click here to view](https://foodie-website-eta-one.vercel.app/)
 
-📧 Contact
+📧 Contact:
+
 Created by Shahbaz Alam – feel free to connect!
